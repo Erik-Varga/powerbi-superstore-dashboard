@@ -1,0 +1,21 @@
+https://www.kaggle.com/datasets
+https://app.freelogodesign.org/
+
+https://app.powerbi.com/groups/me/reports/3ce00ec9-f36c-4e24-9481-058d061c909c/ReportSectioned1f63c834043db4031c?experience=power-bi
+
+export to pdf
+
+https://www.adobe.com/acrobat/online/pdf-to-jpg.html
+
+echo "# powerbi-superstore-dashboard" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Erik-Varga/powerbi-superstore-dashboard.git
+git push -u origin main
+
+git add .
+git commit -m "update"
+git push
+
